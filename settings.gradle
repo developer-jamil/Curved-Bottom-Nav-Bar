@@ -10,6 +10,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        //jcenter add for meow/curved bottom nav bar
         jcenter()
     }
 }
